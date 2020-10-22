@@ -1,0 +1,58 @@
+/**
+ * @name TrueSquare
+ * @author Enotovski#2444
+ * @version 1.0.0
+ * @description Changes Discord interface elements to honest, neat, sharp, clean, truthful, beautiful squares.
+ * @website https://t.me/enotovski
+*/
+
+@import url('https://enotovski.do.am/uploads/basesquare.css');
+:root {   
+--borders-buttons-1: 0px; 
+--borders-buttons-2: 0px; 
+--borders-buttons-3: 0px; 
+--borders-buttons-4: 0px; 
+--borders-switches: 0px; 
+--borders-checkboxes: 0px; 
+--borders-slider-bars: 0px; 
+--borders-slider-grabbers: 0px; 
+--borders-progress-bars: 0px; 
+--borders-inputs: 0px; 
+--borders-contexts: 0px; 
+--borders-popouts: 0px; 
+--borders-modals: 0px; 
+--borders-users: 0px; 
+--borders-servers: 0%; 
+--borders-server-badges: 0px; 
+--borders-unreads: 0px; 
+--borders-avatars-small: 0px; 
+--borders-avatars-large: 0px; 
+--borders-sidebar: 0px; 
+--borders-notices: 0px; 
+--borders-banners-1: 0px; 
+--borders-banners-2: 0px; 
+--borders-previews: 0px; 
+--borders-hypesquad: 0%; 
+--borders-activities: 0px; 
+--borders-icons-small: 0px; 
+--borders-icons-large: 0px; 
+--borders-images: 0px; 
+--borders-videos: 0px; 
+--borders-audios: 0px; 
+--borders-gifs: 0px; 
+--borders-embeds: 0px; 
+--borders-reactions: 0px; 
+--borders-mentions: 0px; 
+--borders-roles: 0px; 
+--borders-tags: 0px; 
+--borders-format-toolbars: 0px; 
+--borders-codes: 0px; 
+--borders-spoilers: 0px; 
+--borders-quotes: 0px; 
+--borders-search-highlights: 0px; 
+--borders-toasts: 0px; 
+--borders-tooltips: 0px; 
+--borders-scrollbars: 0px; 
+--borders-custom-css: 0px; 
+}
+
