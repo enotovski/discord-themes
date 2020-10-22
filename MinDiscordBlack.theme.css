@@ -2,7 +2,7 @@
  * @name MinimalDiscordBlack
  * @author Enotovski#2444
  * @version 1.0.0
- * @description Changes Discord enough to give it a fresh feel while also making it like a fucking pitch black square. Only dark theme.
+ * @description Changes Discord enough to give it a fresh feel while also making it like a damn pitch black square. Only dark theme.
  * @website https://t.me/enotovski
 */
 
@@ -13,29 +13,30 @@ https://betterdiscordlibrary.com/users/Gibbu
 https://betterdiscordlibrary.com/users/JayWilson
 */
 
-/*Что-то не работает после изменений? Почисти кэш %appdata%\discord (Cache;Code Cache;)*/
+/*Is something not working? Clean your cache! %appdata%\discord (Cache;Code Cache;)*/
 
 /*_________________________________________________________________________________________________________*/
-/*Показываю шрифт*/
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+
 /*_________________________________________________________________________________________________________*/
-/*Остальная часть извне. Можно закомментить basesquare если ты гей*/
-@import url('https://enotovski.do.am/uploads/base.css');
-@import url('https://enotovski.do.am/uploads/basecolor.css');
-@import url('https://enotovski.do.am/uploads/basesquare.css');
+/*Can you comment on basesquare if you're gay*/
+@import url('https://github.com/enotovski/import-for-discord-themes/blob/main/base.css');
+@import url('https://github.com/enotovski/import-for-discord-themes/blob/main/basecolor.css');
+@import url('https://github.com/enotovski/import-for-discord-themes/blob/main/basesquare.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
 /*_________________________________________________________________________________________________________*/
 :root {   
 /*_________________________________________________________________________________________________________*/
-/*Цвета в RGB. Свои гейские выдумки можешь реализовать тут: https://www.google.com/search?q=colorpicker*/
+/*Colors in RGB. You can realize your sexual fantasies with unicorns here: 
+																https://www.google.com/search?q=colorpicker*/
 /*              R   G   B*/
 --accentcolor: 45,95,135;
 --linkcolor:   80,120,155;
 /*              R   G   B*/
 /*_________________________________________________________________________________________________________*/
-/*Меняю шрифт*/
+/*Changing the font*/
 --font: 'Roboto';
 /*_________________________________________________________________________________________________________*/
-/*Дальше для квадратных элементов интерфейса*/
+/*Next for square interface elements*/
 --borders-buttons-1: 0px; 
 --borders-buttons-2: 0px; 
 --borders-buttons-3: 0px; 
