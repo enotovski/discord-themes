@@ -1,7 +1,7 @@
 /**
- * @name MinimalDiscordBlack
+ * @name Discorn
  * @author Enotovski#2444
- * @version 1.0.1
+ * @version 1.0.3
  * @description Changes Discord enough to give it a fresh feel while also making it like a damn pitch black square. Only dark theme.
  * @website https://t.me/enotovski
 */
@@ -22,16 +22,21 @@ https://betterdiscordlibrary.com/users/JayWilson
 @import url('https://enotovski.do.am/uploads/discord/base.css');
 @import url('https://enotovski.do.am/uploads/discord/basecolor.css');
 @import url('https://enotovski.do.am/uploads/discord/basesquare.css');
+@import url("https://enotovski.do.am/uploads/discord/basechallens.css");
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
 /*_________________________________________________________________________________________________________*/
 :root {   
 /*_________________________________________________________________________________________________________*/
 /*Colors in RGB. You can realize your sexual fantasies with unicorns here: 
-https://www.google.com/search?q=colorpicker*/
+																https://www.google.com/search?q=colorpicker*/
 /*              R   G   B*/
 --accentcolor: 45,95,135;
 --linkcolor:   80,120,155;
 /*              R   G   B*/
+/*_________________________________________________________________________________________________________*/
+/*Changing server icons on top (you can comment this for default setting)*/
+  --HSL-server-icon-size: 45px;  /* Size of the server icons | DEFAULT: 40px */
+  --HSL-server-spacing: 20px;  /* Spacing between each server icon | DEFAULT: 10px */
 /*_________________________________________________________________________________________________________*/
 /*Changing the font*/
 --font: 'Roboto';
