@@ -23,7 +23,7 @@ https://betterdiscordlibrary.com/users/JayWilson
 /*Can you comment on basesquare if you need ugly default icons*/
 @import url('https://enotovski.do.am/uploads/discord/basesquare.css');
 /*Can you comment on basechallens if you need default channels*/
-@import url("https://enotovski.do.am/uploads/discord/basechallens.css");
+/*@import url("https://enotovski.do.am/uploads/discord/basechallens.css");*/
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
 /*_________________________________________________________________________________________________________*/
 :root {   
@@ -31,8 +31,8 @@ https://betterdiscordlibrary.com/users/JayWilson
 /*Colors in RGB. You can realize your sexual fantasies with unicorns here: 
 																https://www.google.com/search?q=colorpicker*/
 /*              R   G   B*/
---accentcolor: 45,95,135;
---linkcolor:   80,120,155;
+--accentcolor: 223, 138, 255;
+--linkcolor:   127, 86, 143;
 /*              R   G   B*/
 /*_________________________________________________________________________________________________________*/
 /*Changing server icons on top (you can comment this for default setting)*/
